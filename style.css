@@ -1,0 +1,88 @@
+body {
+            font-family: Verdana, sans-serif;
+            background-color: #eef2f5;
+            color: #222222;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* Main Wrapper Box */
+        .portfolio-card {
+            background-color: #ffffff;
+            width: 100%;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Profile Header */
+        .profile-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .profile-header h1 {
+            color: #333333;
+            margin-bottom: 5px;
+        }
+
+        .profile-header p {
+            background-color: #0056b3;
+            color: #f8f9fa;
+            padding: 20px;
+        }
+
+        /* Section Headings */
+        h2 {
+            font-size: 18px;
+            color: #0056b3;
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 4px;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        /* Text and Lists */
+        p, li {
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        ul {
+            margin-top: 5px;
+            padding-left: 20px;
+        }
+
+        /* Project Box */
+        .project-item {
+            background-color: #f8f9fa;
+            border-left: 4px solid #0056b3;
+            padding: 10px 15px;
+            margin-bottom: 10px;
+        }
+
+        .project-item h3 {
+            margin: 0 0 5px 0;
+            font-size: 15px;
+            color: #333333;
+        }
+
+        /* Links */
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #777777;
+        }
